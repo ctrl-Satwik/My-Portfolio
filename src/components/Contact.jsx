@@ -26,7 +26,7 @@ const Contact = () => {
               <Mail size={20} />
               <span>Get in Touch</span>
             </a>
-            <a href="/resume.pdf" download className="flex items-center space-x-3 px-8 py-4 bg-white/10 text-white rounded-full font-semibold hover:bg-white/20 transition-all hover:scale-105 active:scale-95 border border-white/10">
+            <a href="https://drive.google.com/file/d/19Lz-1axjn45lra2k0mABKbidji04cCBM/view?usp=drive_link" target="_blank" rel="noopener noreferrer" className="flex items-center space-x-3 px-8 py-4 bg-white/10 text-white rounded-full font-semibold hover:bg-white/20 transition-all hover:scale-105 active:scale-95 border border-white/10">
               <FileText size={20} />
               <span>Resume</span>
             </a>
