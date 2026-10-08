@@ -10,15 +10,15 @@ const projects = [
     github: "https://github.com/ctrl-Satwik/Expense-Tracker"
   },
   {
-    title: "Music Streaming Application",
-    description: "Architected a responsive music streaming platform enabling users to search, organize, and play tracks with zero latency. Integrated the HTML5 Audio API for playback controls including seek, shuffle, loop, and volume. Designed a mobile-responsive UI using Tailwind CSS.",
-    tech: ["React.js", "HTML5 Audio API", "Tailwind CSS"],
-    github: "#"
-  },
-  {
     title: "Real-Time Chat Application",
     description: "Built a real-time messaging application using React.js and Socket.IO with live message delivery, synchronized conversations, typing indicators, online presence, and read receipts. Implemented persistent chat history for seamless messaging.",
     tech: ["React.js", "Node.js", "Express.js", "Socket.IO"],
+    github: "https://github.com/ctrl-Satwik/Chat-App"
+  },
+  {
+    title: "Music Streaming Application",
+    description: "Architected a responsive music streaming platform enabling users to search, organize, and play tracks with zero latency. Integrated the HTML5 Audio API for playback controls including seek, shuffle, loop, and volume. Designed a mobile-responsive UI using Tailwind CSS.",
+    tech: ["React.js", "HTML5 Audio API", "Tailwind CSS"],
     github: "#"
   }
 ];
